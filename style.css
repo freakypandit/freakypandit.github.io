@@ -367,8 +367,6 @@ nav ul li:last-child {
 }
 
 
-
-
 /*responsive*/
 @media(max-width: 767px) {
     
@@ -384,6 +382,7 @@ nav ul li:last-child {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    width: 100%;
 }
 
 .project-card{
